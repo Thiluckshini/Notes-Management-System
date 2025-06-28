@@ -1,0 +1,11 @@
+<html>
+<body>
+<button onclick="mss()">Submit
+</button>
+<script>
+function mss(){
+alert("hello");
+}
+</script>
+</body>
+</html>

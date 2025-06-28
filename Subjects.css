@@ -1,0 +1,10 @@
+body{
+	margin:0;
+	padding:0;
+	background-image:url("Images/sub1.jpg");
+	text-align:center;
+}
+h1,h2{
+	color:white;
+	text-align:center;
+}
